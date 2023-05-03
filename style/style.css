@@ -1,0 +1,21 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.container-fluid .row .col{
+    margin: 3px;
+    border: 1px solid black;
+    border-radius: 20px;
+}
+
+.container-fluid .row .col p{
+    text-align: center;
+}
+
+.day{
+    text-align: center;
+    background-color:darkslategray;
+    color: white;
+}
